@@ -100,10 +100,17 @@ main b{
 }
 #portfoliopicture{
     float: left;
-    width: 350px;
-    height: 250px;
+    width: 250px;
+    height: 150px;
     margin-right: 20px;
-    margin-top: 20px;
+    margin-top: 30px;
+}
+#portfoliopicture2{
+    float: left;
+    width: 250px;
+    height: 150px;
+    margin-right: 200px;
+    margin-top: 30px;
 }
 #headermod {
     width: 960px;
