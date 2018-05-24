@@ -52,7 +52,7 @@ main{
     bottom: 0;
     left: 0;
     right: 0;
-    width: 70%;
+    width: 900px;
     height: 50%;
     margin: auto;
     background-color: #ffffff;
@@ -65,7 +65,7 @@ main2{
     bottom: 0;
     left: 0;
     right: 0;
-    width: 70%;
+    width: 900px;
     height: 70%;
     margin: auto;
     background-color: #ffffff;
